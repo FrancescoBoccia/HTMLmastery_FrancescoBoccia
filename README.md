@@ -6,4 +6,4 @@ How the main page looks like!
 ![](GooglePage.PNG)
 
 My finishing copy of it!
-![](=How it looks like.PNG)
+![](How it looks like.PNG)
